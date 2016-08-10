@@ -5,3 +5,5 @@ Installed software:
 
 * Django
 * psycopg2
+* whitenoise
+* gunicorn
