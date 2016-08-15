@@ -7,3 +7,4 @@ Installed software:
 * psycopg2
 * whitenoise
 * gunicorn
+* aiohttp
